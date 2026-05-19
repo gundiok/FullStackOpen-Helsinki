@@ -1,0 +1,15 @@
+{
+  "persons": [
+    {
+      "name": "Jakkfruit",
+      "number": "02020202020",
+      "id": "uxJ7mfjxgjQ"
+    },
+    {
+      "name": "Cena",
+      "number": "012151515",
+      "id": "WD9vl4sD5Nw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
